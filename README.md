@@ -32,7 +32,7 @@ The analysis includes data cleaning, exploration, visualization, and basic machi
 
 ## Project Structure
 
-* `ONO_Mid_term_exercise_2023.ipynb` – Main analysis notebook
+* `Bike-Buyers-Data-Analysis.ipynb` – Main analysis notebook
 
 ---
 
